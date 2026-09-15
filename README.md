@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Enzo Araújo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&width=500&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+nova" alt="Typing SVG" />
+  <img src="https://pro-ht.github.io/portfolio-main/assets/img/sobre-foto/enzo.png" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,12 +42,6 @@ Estou em constante evolução e sempre buscando melhorar minhas habilidades.
 - [EJ Web Studio](https://ejwebstudio.netlify.app/)
 - [Solução Completa](https://solucao-completa.netlify.app/)
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
 
 ## 🤝 Conecte-se comigo
 
