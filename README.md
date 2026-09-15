@@ -1,7 +1,11 @@
 <h1 align="center">Olá, eu sou Enzo Araújo 👋</h1>
 
 <p align="center">
-  <img src="https://pro-ht.github.io/portfolio-main/assets/img/sobre-foto/capa-inicial.png" alt="Typing SVG" />
+  <img src="https://pro-ht.github.io/portfolio-main/assets/img/sobre-foto/capa-inicial.png" 
+       width="220" 
+       height="220" 
+       style="border-radius: 18px; object-fit: cover; box-shadow: 0 0 18px rgba(124, 58, 237, 0.25);" 
+       alt="Foto de perfil de Enzo Araújo" />
 </p>
 
 <p align="center">
