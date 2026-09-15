@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://pro-ht.github.io/portfolio-main/assets/img/sobre-foto/capa-inicial.png" 
-       width="220" 
+       width="420" 
        height="220" 
        style="border-radius: 18px; object-fit: cover; box-shadow: 0 0 18px rgba(124, 58, 237, 0.25);" 
        alt="Foto de perfil de Enzo Araújo" />
