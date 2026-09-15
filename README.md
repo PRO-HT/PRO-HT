@@ -11,28 +11,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 🚀 Sobre mim
-
-Sou estudante de programação com interesse em desenvolvimento web.  
-Gosto de aprender, criar projetos e evoluir constantemente.
-
-## 💻 Tecnologias
-
-- PHP
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
-
-## 🌱 Projetos
+Sou estudante de programação e apaixonado por desenvolvimento web.  
+Gosto de aprender, criar projetos e evoluir cada dia mais.
 
 - [Portfolio](https://pro-ht.github.io/portfolio-main/)
-- [EJ Web Studio](https://ejwebstudio.netlify.app/)
-- [Solução Completa](https://solucao-completa.netlify.app/)
-
-## 🤝 Conecte-se comigo
-
 - [LinkedIn](https://br.linkedin.com/in/enzo-lemes-castanho-araujo)
 - [E-mail](mailto:enzo.lemes.castanho@email.com)
-
-> Aprender tecnologia é um processo contínuo.
